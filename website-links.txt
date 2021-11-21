@@ -1,0 +1,2 @@
+crop-circle.imageonline.co  -- to crop image into circle
+WIN + . or WIN + ; for emojis
